@@ -1,0 +1,12 @@
+--- 
+title: "Template de novos Projetos"
+author: "SSA"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+link-citations: yes
+description: ""
+---
+
+# Descritiva
+

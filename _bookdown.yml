@@ -1,0 +1,9 @@
+output_dir: "../docs"
+book_filename: "relatorio"
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: ""
+  label:
+    fig: "Figura "
+    tab: "Tabela "
